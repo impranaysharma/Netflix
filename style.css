@@ -1,0 +1,417 @@
+html {
+  height: 100vh;
+  width: 100vw;
+}
+@font-face {
+  font-family: "font2";
+  src: url("font2.otf");
+}
+body {
+  width: 98vw;
+  color: white;
+  background-color: black;
+}
+#bg1 {
+  float: initial;
+  opacity: 0.5;
+  height: 75vh;
+  width: 98vw;
+}
+#heading {
+  font-size: 4vw;
+  float: left;
+  left: 19vw;
+  top: 28vh;
+  position: absolute;
+  font-family: font;
+  src: font.txt;
+  font-weight: 900;
+
+}
+#logo {
+  filter: brightness(95%);
+  height: 9vh;
+  width: 14w;
+  position: absolute;
+  left: 12vw;
+  top: 1vh;
+}
+#line1 {  font-weight: 300;
+  font-size: 2vw;
+  float: left;
+  left: 29vw;
+  top: 44vh;
+  position: absolute;
+
+}
+#line2 {
+  font-weight: 300;
+  font-size: 1.7vw;
+  float: left;
+    left: 28vw;
+  top: 52vh;
+  position: absolute;
+}
+.button {
+  position: relative;
+  top: 2px;
+  color: white;
+  font-size: 24px;
+  font-weight: 600;
+  border: 2px solid red;
+  background-color: red;
+  border-radius: 7px;
+  height: 6vh;
+  width: 17vw;
+  cursor: pointer;
+
+}
+.input {
+  color: white;
+  height: 5.8vh;
+  width:  31vw;
+  border-radius: 7px;
+   border: 0.5px solid gray;
+   background-color: black;
+  opacity: 0.7;
+  font-size: 18px;
+}
+#sign {
+  color: white;
+  font-weight: 780;
+  background-color: red;
+  border-radius: 7px;
+  position: relative;
+  float: left;
+  left: 55vw;
+  top: -67vh;
+  width: 6.2vw;
+  height: 3.8vh;
+  border: 0.5px solid red;
+  cursor: pointer;
+  font-size: 1.4vw;
+
+}
+.line {
+  background-color: gray;
+  height: 1vh;
+  width: 98vw;
+  opacity: 0.3;
+  border: none;
+}
+#tv {
+  top: -6vh;
+  float: right;
+  height: 42vh;
+  width: 33vw;
+  position: relative;
+  right: 10vw;
+}
+#gif1 {
+  top: 4.2vh;
+  float: right;
+  height: 20vh;
+  width: 23.7vw;
+  position: relative;
+  right: -18.2vw;
+}
+#head2 {
+  left: 4vw;
+  position: relative;
+  float: left;
+  top: 2vh;
+  font-size: 4.7vw;
+  font-weight: 600;
+}
+.emailform {
+position: relative;
+  top: -20vh;
+  left: 21.5vw;
+  width: 55vw;
+}
+#head2context {
+  position: relative;
+  top: 7vh;
+  font-size: 1.9vw;
+  left: 5vw;
+  font-weight: 100;
+  width: 35vw;
+}
+#pic1{
+  position: relative;
+  z-index: 10;
+  height: 65vh;
+  width:45vw;
+}
+#gif45 {
+  position: relative;
+  top:-2vh;
+  z-index: 11;
+  right: 37vw;
+  height: 14vh;
+  width: 18vw;
+  border: 0.2vw solid gray;
+  border-radius: 3vw;
+}
+#textpic1{
+  position: relative;
+  z-index: 12;
+
+  right: 52vw;
+  bottom: 12vh;
+  font-size: 1.5vw;
+  font-weight: 300;  
+}
+#text3pic1 {
+  position: relative;
+  float: right;
+  right: 12vw;
+  top: -56vh;
+  font-size: 4.5vw;
+  font-weight: 1000;
+
+}
+#content2{
+  height: 52vh;
+}
+#text4pic1{
+  position: relative;
+  float: right;
+  right: -24vw;
+  top: -20vh;
+  font-size: 2vw;
+  font-weight: 150;
+  font: font2;
+}
+#hline1 {
+  position: relative;
+  top: -8vh;
+}
+#line4
+{
+  position: relative;
+  background-color: gray;
+  height: 1vh;
+  width: 98vw;
+  opacity: 0.3;
+  border: none;
+  top: -9vh;
+}
+#content3
+{
+  height: 80vh;
+  width: 100%;
+}
+#saif {
+  position: relative;
+  height: 55vh;
+  width: 39vw;
+  z-index: 20;
+  left: 57vw;
+  top: -10vh;
+}
+#srk{
+  z-index: 25;
+  height: 23vh;
+  width: 23vw;
+  position: relative;
+  left: 25.5vw;
+  top: -36vh;
+}
+#box3
+{
+  position: relative;
+  font-size: 4.5vw;
+  z-index: 19;
+  top: 10vh;
+  font-weight: 700;
+  font: "font2";
+  left: 5vw;
+  width: 50vw;
+
+}
+#content3t{
+  position: relative;
+  z-index: 18;
+  left: 5vw;
+  top: 20vh;
+  font-size: 2.5vw;
+  width: 70vw;
+}
+#bache {
+  position: relative;
+  top: 8vh;
+  left: 3vw;
+}
+#content4box1{
+  font-size: 3.4vw;
+  float: right;
+  font-weight: 800;
+  right: 17vw;
+  top: 16vh;
+  position: relative;
+  
+}
+#content4box2{
+  float: right;
+  right: 9vw;
+  position: relative;
+  top: -26vh;
+  font-size: 2vw;
+}
+#questions{
+  position: relative;
+  top: 9vh;
+  left: 25vw;
+  font-size: 4vw;
+  font-weight: 1000;
+  width: 50vw;
+}
+.qb{
+  color: white;
+  height: 10vh;
+  width: 85%;
+  background-color:rgba(65,65,65,255);
+  position: relative;
+  left: 9vw;
+  text-align: left;
+  top: 20vh;
+  font-size: 2vw;
+  margin-top: 1vh;
+  cursor: pointer;
+  
+}
+.plus{
+  position: relative;
+  float: right;
+  right: 2vw;
+}
+#form2{
+  position: relative;
+  top: 28vh;
+  left: 34vw;
+  font-size: 1.5vw;
+  width: 51vw;
+}
+#line23{
+  position: relative;
+  top: 25vh;
+  left: 28vw;
+  width: 50vw;
+  font-size: 1.5vw;
+}
+#button2{
+  width: 11vw;
+}
+#input2{
+  width: 19vw;
+}
+#line67{
+  position: relative;
+  top: 32vh;}
+
+.flex{
+  opacity: 0.6;
+  position: relative;
+  top: 35vh;
+  grid-gap: 5vw;
+  display: grid;
+  grid-template-columns: 10vw 10vw 10vw 10vw;
+  justify-content: center;
+  grid-row-gap: 1vw;
+}
+a:link {
+  color: white;
+}
+.qb:hover{
+  opacity: 0.6;
+  
+}
+.dropdown{
+  color: white;
+  position: relative;
+  float: left;
+  border: 1px white solid;
+  background-color: black;
+  width: 5.5vw;
+border-radius: 5px;
+  height: 3vh;
+  
+}
+#first{
+  padding-top: 3px;
+  text-align: center;
+  top: -80vh;
+  left: 86vw;
+  width: 5vw;
+  height: 2.5vh;
+  cursor: pointer;
+  }
+#hidden {
+    text-align: center;
+    position: relative;
+    display: none;
+    top: 7px;
+    background-color: white;
+    color: black;
+    border: 4px black solid;
+}
+#first:active{
+  border: 3px white solid;
+}
+#firstsecond:active{
+  border: 3px white solid;
+}
+#English:hover{
+  background-color: black;
+  color: white;
+}
+#Hindi:hover{
+  background-color: black;
+  color: white;
+}
+#sl1{
+  position: relative;
+  top: 33.5vh;
+  left: 21.5vw;
+  opacity: 0.7;
+  width: 20vw;
+}
+#firstsecond{
+  padding-top: 3px;
+  text-align: center;
+  top: 37vh;
+  left: 21vw;
+  width: 6vw;
+  height: 2.5vh;
+  cursor: pointer;
+}
+#lastspace{
+  height: 5vh;
+  width: 40vw;
+  position: relative;
+  top: 41vh;
+  left: 15vw;
+  opacity: 0.7;
+}
+@media only screen and (min-width: 1000px){
+#line1 {
+  top: 50vh;
+}
+#line2{
+  top: 59vh;
+}
+#bg1{
+  height: 85vh;
+}
+#tv{
+  height: 45vh;
+}
+#gif1{
+  top: 3.5vh;
+  height: 24vh;
+}
+#head2context{
+  top:8.2vh;
+}
+}
