@@ -415,3 +415,241 @@ border-radius: 5px;
   top:8.2vh;
 }
 }
+@media only screen and (min-width: 700px ) and (max-width : 800px){
+  #bg1 {
+
+    height: 38vh;
+    width: 98vw;
+}
+
+#logo {
+
+    height: 4vh;
+    width: 14vw;
+    left: 5vw;
+    top: 1vh;
+}
+#heading {
+  font-size: 4.5vw;
+
+  left: 15vw;
+  top: 8vh;
+}
+.emailform {
+  top: -13vh;
+  left: 3.5vw;
+  width: 90vw;
+}
+.button {
+
+  top: 2px;
+  color: white;
+  font-size: 24px;
+  height: 4vh;
+  width: 28vw;
+
+}
+.input {
+
+  height: 3.8vh;
+  width: 42vw;
+  font-size: 18px;
+}
+#line1 {
+  font-weight: 300;
+  font-size: 2.5vw;
+  float: left;
+  left: 21vw;
+  top: 16vh;
+ 
+}
+#line2 {
+  font-weight: 300;
+  font-size: 2.5vw;
+ 
+  left: 16vw;
+  top: 23vh;
+ 
+}
+#hline1 {
+ 
+  top: -5vh;
+}
+#tv {
+  top: 18vh;
+ 
+  height: 29vh;
+  width: 57vw;
+ 
+  right: 21vw;
+}
+#gif1 {
+  top: 24.3vh;
+ 
+  height: 15.5vh;
+  width: 40.7vw;
+ 
+  right: -27.5vw;
+}
+#head2 {
+  left: 13vw;
+ 
+  top: -28vh;
+  font-size: 8.7vw;
+  font-weight: 600;
+}
+#head2context {
+  position: relative;
+  top: -6vh;
+  font-size: 3.9vw;
+  left: 28vw;
+  font-weight: 100;
+  width: 58vw;
+  text-align: center;
+  height: 38vh;
+}
+#pic1 {
+  position: relative;
+  z-index: 10;
+  height: 38vh;
+  width: 65vw;
+  top: 32vh;
+  left: 14vw;
+}
+#gif45 {
+  position: relative;
+  top: 32vh;
+  z-index: 11;
+  right: 37vw;
+  height: 9vh;
+  width: 18vw;
+  border: 0.2vw solid gray;
+  border-radius: 3vw;
+  left: -43vw;
+}
+#textpic1 {
+  position: relative;
+  z-index: 12;
+  right: 59vw;
+  bottom: -26vh;
+  font-size: 2vw;
+  font-weight: 300;
+}
+#text3pic1 {
+  position: relative;
+  float: right;
+  right: 28vw;
+  top: -31vh;
+  font-size: 6.5vw;
+  font-weight: 1000;
+}
+#text4pic1 {
+  position: relative;
+  float: right;
+  right: -17vw;
+  top: -11vh;
+  font-size: 2.5vw;
+  font-weight: 150;
+  font: font2;
+}
+#srk {
+    z-index: 25;
+    height: 18vh;
+    width: 33vw;
+    position: relative;
+    left: -34.5vw;
+    top: -6vh;
+}
+#saif {
+    position: relative;
+    height: 43vh;
+    width: 64vw;
+    z-index: 20;
+    left: 15vw;
+    top: 13vh;
+}
+#box3 {
+    position: relative;
+    font-size: 8.5vw;
+    z-index: 19;
+    top: -2vh;
+    font-weight: 700;
+    font: "font2";
+    left: 14vw;
+    width: 71vw;
+}
+#content3t {
+    position: relative;
+    z-index: 18;
+    left: 22vw;
+    top: 5vh;
+    font-size: 3.5vw;
+    width: 54vw;
+    text-align: center;
+}
+#bache {
+    position: relative;
+    top: 17vh;
+    left: 17vw;
+    height: 33vh;
+}
+#content4box1 {
+    font-size: 4.4vw;
+    float: right;
+    font-weight: 800;
+    right: 29vw;
+    top: -30vh;
+    position: relative;
+}
+#content4box2 {
+    float: right;
+    right: -20vw;
+    position: relative;
+    top: -22vh;
+    font-size: 2.5vw;
+}
+#questions {
+    position: relative;
+    top: 11vh;
+    left: 14vw;
+    font-size: 6vw;
+    font-weight: 1000;
+    width: 74vw;
+}
+.qb {
+    color: white;
+    height: 10vh;
+    width: 85%;
+    background-color: rgba(65,65,65,255);
+    position: relative;
+    left: 9vw;
+    text-align: left;
+    top: 20vh;
+    font-size: 5vw;
+    margin-top: 1vh;
+    cursor: pointer;
+}
+#line23 {
+    position: relative;
+    top: 25vh;
+    left: 23vw;
+    width: 55vw;
+    font-size: 3.5vw;
+}
+#form2 {
+    position: relative;
+    top: 28vh;
+    left: 22vw;
+    font-size: 7.5vw;
+    width: 59vw;
+}
+
+
+#button2 {
+    width: 23vw;
+}
+#input2 {
+    width: 28vw;
+}
+
+}
